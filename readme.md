@@ -1,5 +1,3 @@
-# This is my portfolio
+# Deployed Link
 
-```
-console.log("Hello);
-```
+https://ismanovnurgazy.github.io/
